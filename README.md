@@ -1,4 +1,11 @@
 ### Hi there 👋
+## My name is Felipe Eduardo Weiss
+
+I'm Brazilian with Italian citizenship.
+
+I work 2+ years with software development and really love this.
+
+##
 
 <div align="center">
   <a href="https://github.com/FelipeWeiss">
