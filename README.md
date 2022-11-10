@@ -1,6 +1,7 @@
 ### Hi there, my name is Felipe Eduardo Weiss
 
 I'm Brazilian with Italian citizenship.
+
 And I work 2+ years with software development.
 
 ##
