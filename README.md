@@ -1,8 +1,28 @@
 ### Hi there, my name is Felipe Eduardo Weiss
 
-I'm Brazilian with Italian citizenship.
+In my first job, I worked as a web full stack developer in a company called BPlus from August 2020 until September 2021. BPlus is an IT service company and their main customer is the largest clinical exams company in Latina America, in which I worked. There, I learned about running larger projects and I acquired knowledge about web development and Scrum project management.
+My main activities were the transition of the frontend stack from Intersystems Zen Framework to React JS, development of new features and new components, maintenance, support, simple database modeling and API development.
 
-And I work 2+ years with software development.
+<ul>
+  Main Stack:
+  <li>ReactJS, Svelte, Intersystem Zen Framework</li>
+  <li>TypeScript, JavaScript, SASS, Styled Components, HTML, CSS</li>
+  <li>Intersystems Caché ObjectScript (backend language)</li>
+  <li>Intersystems Caché Database (SQL Database)</li>
+  <li>Git, GitHub, BitBucket</li>
+</ul>
+
+After September 2021, I started in another company called eSapiens as a frontend developer. eSapiens is a B2C company and has a couple of products. I work with Astrolink, one of the biggest astrology apps in Brazil and available worldwide in the App Store, Google Play and web. There, I learned about internationalization and deepened my knowledge about frontend technologies.
+My main activities were development of new features, promotions and new components, maintenance, refactoring, feature release for new languages, SEO, performance and accessibility improvements, and basic database maintenance.
+	
+<ul>
+  Main Stack:
+  <li>ReactJS, React Native</li>
+  <li>TypeScript, JavaScript, SASS, Styled Components, HTML, CSS</li>
+  <li>PHP, MySQL</li>
+  <li>Git, GitLab</li>
+</ul>
+
 
 ##
 
