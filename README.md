@@ -1,4 +1,4 @@
-### Hi there, my name is Felipe Eduardo Weiss
+### Hi there, my name is Felipe Eduardo Weiss 
 
 In my first job, I worked as a web full stack developer in a company called BPlus from August 2020 until September 2021. BPlus is an IT service company and their main customer is the largest clinical exams company in Latina America, in which I worked. There, I learned about running larger projects and I acquired knowledge about web development and Scrum project management.
 My main activities were the transition of the frontend stack from Intersystems Zen Framework to React JS, development of new features and new components, maintenance, support, simple database modeling and API development.
